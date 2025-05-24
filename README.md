@@ -46,3 +46,9 @@ Outside of tech, 📖 I enjoy exercising, 🎵 listening to music, and 🌿 expl
 
 </span>
 
+## Check out my Social Media
+
+<a href= "www.linkedin.com/in/jesus-alvarez11">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
